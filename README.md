@@ -1,5 +1,5 @@
 # HetSoCOpt
-Simulator for heterogeneous SoC optimization (HetSoCopt): \
+Simulator for heterogeneous SoC optimization (HetSoCOpt): \
 \
 Modeling and simulation of system bus and memory collision in heterogeneous SoCs, Jooho Wang, Yunkyu Gim, Sungkyung Park, and Chester Sungchung Park, IEEE Access, to be published.\
 \
