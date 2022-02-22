@@ -7,4 +7,4 @@ This SoC Simulator (HetSoCopt) can help to optimize design parameters and hence 
 
 Contributors: Jooho Wang, Yungyu Gim, and Prof. Chester Sungchung Park.\
 If you have any questions, please send an email to joohowang@konkuk.ac.kr\
-Original release: Konkuk University, 2022\
+Original release: Konkuk University, 2022
