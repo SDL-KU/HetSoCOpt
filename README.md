@@ -24,7 +24,7 @@ Run:
 After you build HetSoCOpt, you can use the provided programs in the orthogonal matching pursuit (OMP) algorithm for channel estimation (LTE 5MHz) to test HetSoCOpt.\
 Debug => Start without debugging (Ctrl + F5) *or* Debug => Start debugging (F5)
 
-HetSoCOpt will generate a text file during its execution. Files you might be interested are `Files0~6.txt` which profiles the performance and hardware type of heterogeneous SoC.
+HetSoCOpt will generate a text file during its execution. Files you might be interested are `Files0~6.txt` which profiles the estimated performance of heterogeneous SoC models.
 
 Jooho Wang and Prof. Chester Sungchung Park.\
 If you have any questions, please send an email to joohowang@konkuk.ac.kr\
