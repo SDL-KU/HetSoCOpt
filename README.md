@@ -7,7 +7,7 @@ This SoC Simulator (HetSoCopt) can help to optimize design parameters and hence 
 
 Requirements:
 =============
-We *highly* recommend that users use the `Visual Studio 2017 (x64 or x86)`,
+We *highly* recommend that users use the `Visual Studio 2017 (x86)`,
 as it has all the required dependencies installed and the environment prepared.
 
 Create an empty project:
